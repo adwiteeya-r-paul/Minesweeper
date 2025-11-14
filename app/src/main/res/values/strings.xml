@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="title">Minisweeper</string>
+    <string name="reset">Reset</string>
+    <string name="click_to_play">Click to play!</string>
+    <string name="lost">Oops, you lost! Click reset to play again</string>
+    <string name="win">You won! Can you win again?</string>
+</resources>
