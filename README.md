@@ -1,11 +1,13 @@
-**Minesweeper**
+*Minesweeper*
 
 This project implements the game Minesweeper, learn more about Minesweeper here: ([https://en.wikipedia.org/wiki/Minesweeper_(video_game)]) 
 
-***Building Details***
+**Building Details**
+
 The project was built on Android Studio, coded fully in Kotlin. 
 
-***Game Details***
+**Game Details**
+
 - There is a 5*5 game area and 3 hidden mines. 
 - On the UI, there exists a checkbox, which determines what happens if a tile is clicked on. The player can either:
 o Place a flag [Flag mode on]
