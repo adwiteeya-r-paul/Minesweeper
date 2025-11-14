@@ -1,6 +1,10 @@
 
 This project implements the game Minesweeper, learn more about Minesweeper here: ([https://en.wikipedia.org/wiki/Minesweeper_(video_game)]) 
 
+**Demo**:
+
+https://github.com/adwiteeya-r-paul/Minesweeper/issues/1
+
 **Building Details**
 
 The project was built on Android Studio, coded fully in Kotlin. 
@@ -19,5 +23,3 @@ are nearby.
 o If they flagged a field but there is no mine, the game ends.
 o If they flagged a field and there are no more mines, the game ends and the player
 wins!
-
-*A demo video is available!*
