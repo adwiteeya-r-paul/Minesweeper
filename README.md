@@ -1,4 +1,3 @@
-*Minesweeper*
 
 This project implements the game Minesweeper, learn more about Minesweeper here: ([https://en.wikipedia.org/wiki/Minesweeper_(video_game)]) 
 
@@ -21,4 +20,4 @@ o If they flagged a field but there is no mine, the game ends.
 o If they flagged a field and there are no more mines, the game ends and the player
 wins!
 
-*** A demo video is available! ***
+*A demo video is available!*
