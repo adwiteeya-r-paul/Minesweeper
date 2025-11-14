@@ -1,9 +1,9 @@
 
-This project implements the game Minesweeper, learn more about Minesweeper here: ([https://en.wikipedia.org/wiki/Minesweeper_(video_game)]) 
+This project implements the game Minesweeper, learn more about Minesweeper here: [https://en.wikipedia.org/wiki/Minesweeper_(video_game)] 
 
 **Demo**:
 
-https://github.com/adwiteeya-r-paul/Minesweeper/issues/1
+Click here for Demo Video: https://github.com/adwiteeya-r-paul/Minesweeper/issues/1
 
 **Building Details**
 
